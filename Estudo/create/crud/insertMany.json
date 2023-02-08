@@ -1,0 +1,4 @@
+{"_id":{"$oid":"63e395b0bae0679cc4d186f8"},"nome":"jamerson","idade":20,"cargo":"DeVweb","salario":5000,"esta_trabalhando":true}
+{"_id":{"$oid":"63e39606bae0679cc4d186f9"},"nome":"jose","idade":21,"cargo":"DeVweb","salario":3000,"esta_trabalhando":true,"hobbies":["jogar","estudar"]}
+{"_id":{"$oid":"63e39aacbae0679cc4d186fc"},"nome":"jose","idade":20}
+{"_id":{"$oid":"63e39aacbae0679cc4d186fd"},"nome":"hyloranne","idade":21}
